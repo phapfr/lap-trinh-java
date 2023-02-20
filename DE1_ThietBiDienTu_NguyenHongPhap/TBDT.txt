@@ -1,0 +1,5 @@
+M001 samsung 2000 100 i5 Corsair
+T002 lg 2500 150 blue 49 1998 
+M003 apple 1050 90 i3 Kingston
+M004 samsung 4000 65 i7 Corsair
+T005 apple 900 250 black 75 2003

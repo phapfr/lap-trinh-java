@@ -1,0 +1,9 @@
+Viết chương trình quản lý hóa đơn bán ra của 1 cửa hàng điện máy 
+-Thông tin của 1 tivi gồm có(mã tv, hãng sx, năm sx, model tv, kích thước, loại tv, độ phân giải, đơn giá)
+-thong tin cua 1 laptop gồm có(mã laptop, hãng sx, năm sx,model,kích thước, loại ổ cứng, độ phân giải, chip xử lý, ram, dung lượng ổ cứng, đơn giá
+Câu 1: xây dựng lớp trừu tượng HoaDon với các thuộc tính(mã hđ. mã thiết bị, hãng sx. năm sx,model,kích thước, độ phân giải, loại, đơn giá, số lượng) với phương thức tinhThanhTien
+- Nếu số lượng tv >= 3 thì giảm 25%
+-... laptop >=3 thì giảm 35%
+Câu 2: định nghĩa lớp TiVi kết thừa lớp HoaDon
+Câu 3: LapTop ke thua lớp HoaDon với thêm các thuộc tính (chip, ram, dung lượng của ổ cứng)
+Câu 4: định nghĩa lớp DanhSachHoaDon gồm các chức năng: ghi dữ liệu xuống file text, thêm 1 hóa đơn, xóa 1 hóa đơn theo mã, tính tổng thafnhtieenf của lap top theo model nào đó

@@ -1,0 +1,9 @@
+001 Trien Chieu true 1/2/1990 7 8 9
+002 Ly Nuong Nuong false 2/4/1998 6 7
+003 Hoang Thuong true 6/3/1999 7 9 4
+004 Bao Cong true 9/9/2000 9 4 8
+005 Cong Ton Sach true 8/3/1997 9 9
+006 Tieu Hiep Ai Ho false 7/4/1995 7 9
+007 Vuong Trieu false 1/1/1999 8 9 8
+008 Ma Han false 4/5/2000 9 6
+009 Truong Long true 6/9/2000 8 7 5
